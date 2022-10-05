@@ -28,5 +28,5 @@
     \end{cases}$ 
 ---
 ## 练习
-![老师发的图= =](电分作业.jpg )
-![老师发的图= =](解答.png)
+![电分作业.jpg](https://i.postimg.cc/MZVDq2QJ/image.jpg)
+![解答](https://i.postimg.cc/9FTFLbKp/image.png)
